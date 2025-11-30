@@ -16,7 +16,7 @@ barh.py
 scatterplot.py
 <br>
 <br>
-<img src="images/scatterplot.png"></img>
+<img src="images/scatterplot_python.png"></img>
 <br>
 <br>
 pie.py
